@@ -38,6 +38,8 @@ See the notebook here:
 
 [Titanic_Missing_Values_PL.ipynb](Titanic_Missing_Values.ipynb)
 
-## Author
 
-Created as part of university coursework in data analysis / data preprocessing.
+## Data
+
+This project uses a variant of the Titanic dataset for educational purposes, as part of university coursework.  
+The dataset includes information about passengers (age, class, sex, survival, cabin, etc.) and is used to explore handling of missing data.
