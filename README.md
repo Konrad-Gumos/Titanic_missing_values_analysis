@@ -34,9 +34,9 @@ pip install -r requirements.txt
 
 See the notebook here: 
 
-[Titanic_Missing_Values_EN.ipynb](notebooks/Titanic_Missing_Values_EN.ipynb)
+[Titanic_Missing_Values_EN.ipynb](Titanic_Missing_Values_EN.ipynb)
 
-[Titanic_Missing_Values_PL.ipynb](notebooks/Titanic_Missing_Values.ipynb)
+[Titanic_Missing_Values_PL.ipynb](Titanic_Missing_Values.ipynb)
 
 ## Author
 
