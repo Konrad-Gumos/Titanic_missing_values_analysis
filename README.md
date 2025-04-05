@@ -66,7 +66,7 @@ To view the dashboard:
 2. Open Titanic_Dashboard.pbix
 
 ### Power BI file: 
-[Titanic_Dashboard.pbix](Titanic_Dashboard.pbix)
+[Titanic_SurvivalRate.pbix](Titanic_SurvivalRate.pbix)
 
 ### Preview:
 ![obraz](https://github.com/user-attachments/assets/dc23fcc9-fc8a-4af1-ac9e-27f88059e142)
